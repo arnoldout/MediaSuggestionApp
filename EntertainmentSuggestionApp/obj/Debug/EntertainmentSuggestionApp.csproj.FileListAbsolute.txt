@@ -1,0 +1,11 @@
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\bin\Debug\EntertainmentSuggestionApp.exe.config
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\bin\Debug\EntertainmentSuggestionApp.exe
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\bin\Debug\EntertainmentSuggestionApp.pdb
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\obj\Debug\EntertainmentSuggestionApp.csprojResolveAssemblyReference.cache
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\obj\Debug\EntertainmentSuggestionApp.Form1.resources
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\obj\Debug\EntertainmentSuggestionApp.Properties.Resources.resources
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\obj\Debug\EntertainmentSuggestionApp.csproj.GenerateResource.Cache
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\obj\Debug\EntertainmentSuggestionApp.exe
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\obj\Debug\EntertainmentSuggestionApp.pdb
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\olivr\documents\visual studio 2015\Projects\EntertainmentSuggestionApp\EntertainmentSuggestionApp\bin\Debug\Newtonsoft.Json.xml
